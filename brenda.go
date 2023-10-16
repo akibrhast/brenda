@@ -12,7 +12,7 @@ import (
 	"go/token"
 	"go/types"
 
-	"github.com/dave/astrid"
+	"github.com/akibrhast/astrid"
 	"github.com/pkg/errors"
 )
 

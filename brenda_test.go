@@ -10,7 +10,7 @@ import (
 	"go/types"
 	"io"
 
-	"github.com/dave/brenda"
+	"github.com/akibrhast/brenda"
 
 	"fmt"
 
