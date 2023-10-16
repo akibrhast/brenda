@@ -1,7 +1,7 @@
-github.com/akibrhast/astrid v0.1.0 h1:va3jWFq0Wp1G3jdBqHLU1EIMcC695Ii3tCTddwKSQp0=
-github.com/akibrhast/astrid v0.1.0/go.mod h1:d30HsOOk4EUKzi+EfjGfxmQ663jCmu/WOI7CStUtlCo=
-github.com/dave/patsy v0.0.0-20210517141501-957256f50cba h1:1o36L4EKbZzazMk8iGC4kXpVnZ6TPxR2mZ9qVKjNNAs=
-github.com/dave/patsy v0.0.0-20210517141501-957256f50cba/go.mod h1:qfR88CgEGLoiqDaE+xxDCi5QA5v4vUoW0UCX2Nd5Tlc=
+github.com/akibrhast/astrid v0.1.1 h1:2Ji5etU5gVZOLVtVR7UZqoOWzDE40W6eUkPstVuhSJc=
+github.com/akibrhast/astrid v0.1.1/go.mod h1:YULbKJSwu4FosAFO+6fRZFvee1xGI8SdhrAr2Q8iMSc=
+github.com/akibrhast/patsy v0.1.0 h1:cueo18oFk8mQAfs6EJlb9kVw1u5fOM8iaY8IBISs/UA=
+github.com/akibrhast/patsy v0.1.0/go.mod h1:WkkiUr+VJ8+YUKMCPSLfKt8EZAfAZOw2kZsjF4JjQy8=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 golang.org/x/sys v0.13.0 h1:Af8nKPmuFypiUBjVoU9V20FiaFXOcuZI21p0ycVYYGE=
